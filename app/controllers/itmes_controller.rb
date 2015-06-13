@@ -1,2 +1,0 @@
-class ItmesController < ApplicationController
-end
